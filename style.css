@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.elements {
+   
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 10px
+}
+
+
+.forms{
+    margin: 25px;
+  width: 350px;
+  height: 200px;
+  text-align: center;
+}
